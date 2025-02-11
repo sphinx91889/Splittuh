@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /sign-out
+
+Sitemap: https://splittuh.com/sitemap.xml
